@@ -1,9 +1,9 @@
-let s = 'Welcome to Hemanta Pradhan\'s Portfolio, showcasing innovation and excellence in every project.';
+// let s = 'Welcome to Hemanta Pradhan\'s Portfolio, showcasing innovation and excellence in every project.';
 
-if (s === 'Welcome to Hemanta Pradhan\'s Portfolio, showcasing innovation and excellence in every project.') {
-    alert(s);
-}
-// const todoText = document.getElementById("submit-btn").value;
+// if (s === 'Welcome to Hemanta Pradhan\'s Portfolio, showcasing innovation and excellence in every project.') {
+//     alert(s);
+// }
+// // const todoText = document.getElementById("submit-btn").value;
 // if (todoText === '') {
 //     alert('Please enter above data!');
 //     return;
